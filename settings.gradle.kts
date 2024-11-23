@@ -1,2 +1,2 @@
-rootProject.name = "test_redisson"
+rootProject.name = "redis-client-performance"
 
